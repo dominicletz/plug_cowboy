@@ -1,5 +1,11 @@
 # Changelog
 
+## v2.2.3
+
+### Enhancements
+
+  * Upgraded cowboy to 2.8
+
 ## v2.2.2
 
 ### Enhancements
